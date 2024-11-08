@@ -26,6 +26,7 @@ If you are seeking any form of <strong>academic cooperation</strong> on crowd co
 <a href='../assets/xiehaiyang_cv_cn.pdf'>CV<strong></strong></a>
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 He won the national scholarship at Wuhan University!(Top 2%)
 - *2024.06*: &nbsp;🎉🎉 He won the first place in the Challenge on Low-light Object Detection and instance Segmentation (Detection) and the third place in (Segmentation), the 4th Physics-Based Vision meets Deep Learning Workshop, CVPR 2024！
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023!
 
@@ -43,6 +44,7 @@ If you are seeking any form of <strong>academic cooperation</strong> on crowd co
 </div>
 
 # 🎖 Honors and Awards
+- *2024.06* He won the national scholarship at Wuhan University!(Top 2%)
 - *2024.06* He won the first place in the Challenge on Low-light Object Detection and instance Segmentation (Detection) and the third place in (Segmentation), the 4th Physics-Based Vision meets Deep Learning Workshop, CVPR 2024. 
 - *2022.09* He received the first prize Tencent Scholarship.
 - *2022.09* He received the first-class scholarship from Wuhan University.

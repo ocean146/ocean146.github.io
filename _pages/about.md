@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-He is currently a 1st-year master student of <a href='http://aim-nercms.whu.edu.cn/'>AIM Lab</a> at <a href='http://multimedia.whu.edu.cn/'>National Engineering Research Center for Multimedia Software(国家多媒体软件工程技术研究中心)</a> and <a href='https://www.whu.edu.cn/'>Wuhan University (武汉大学)</a>, advised by <a href='https://wangzwhu.github.io/home/'>Prof. Zheng Wang</a>
+He is currently a 2nd-year master student of <a href='http://aim-nercms.whu.edu.cn/'>AIM Lab</a> at <a href='http://multimedia.whu.edu.cn/'>National Engineering Research Center for Multimedia Software(国家多媒体软件工程技术研究中心)</a> and <a href='https://www.whu.edu.cn/'>Wuhan University (武汉大学)</a>, advised by <a href='https://wangzwhu.github.io/home/'>Prof. Zheng Wang</a>
 
 His research interest includes crowd counting, object detection and computer vision. 
 If you are seeking any form of <strong>academic cooperation</strong> on crowd counting, raw object detection, please feel free to email at <a href="mailto:whuocean.whu.edu.cn">whuocean@whu.edu.cn</a>

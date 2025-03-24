@@ -32,6 +32,18 @@ If you are seeking any form of <strong>academic cooperation</strong> on crowd co
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2023</div><img src='images/SimROD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements](https://ocean146.github.io/SimROD2025/)
+
+<strong>Haiyang Xie</strong>, Xi Shen, Shihua Huang, Qirui Wang, Zheng Wang†
+
+- SimROD takes a packed RAW image as input and first learns a global gamma transformation through the Global Gamma Enhancement (GGE) module. The transformed data is then processed by Green-Guided Local Enhancement (GGLE) to enhance local details. SimROD outperformed the state-of-the-art method with just 1% of the parameters. Code and paper are available at <a href="https://ocean146.github.io/SimROD2025/">Project Page</a>.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/mm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

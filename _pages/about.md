@@ -26,13 +26,14 @@ If you are seeking any form of <strong>academic cooperation</strong> on crowd co
 <a href='../assets/xiehaiyang_cv_cn.pdf'>CV<strong></strong></a>
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 [SimROD](https://ocean146.github.io/SimROD2025/) is public available. Code and paper are available at Project [Page](https://ocean146.github.io/SimROD2025/)
 - *2024.06*: &nbsp;🎉🎉 He won the national scholarship at Wuhan University!(Top 2%)
 - *2024.06*: &nbsp;🎉🎉 He won the first place in the Challenge on Low-light Object Detection and instance Segmentation (Detection) and the third place in (Segmentation), the 4th Physics-Based Vision meets Deep Learning Workshop, CVPR 2024！
 - *2023.07*: &nbsp;🎉🎉 One paper is accepted by ACM MM 2023!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2023</div><img src='images/SimROD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/SimROD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements](https://ocean146.github.io/SimROD2025/)

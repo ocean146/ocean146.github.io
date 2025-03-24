@@ -37,7 +37,7 @@ If you are seeking any form of <strong>academic cooperation</strong> on crowd co
 
 [SimROD: A Simple Baseline for Raw Object Detection with Global and Local Enhancements](https://ocean146.github.io/SimROD2025/)
 
-<strong>Haiyang Xie</strong>, Xi Shen, Shihua Huang, Qirui Wang, Zheng Wang†
+<strong>Haiyang Xie</strong>, <a href="https://xishen0220.github.io" target="_blank">Xi Shen</a>, <a href="http://www.shihuahuang.cn" target="_blank">Shihua Huang</a>, <a href="https://qiruiwang0728.github.io/homepage/" target="_blank">Qirui Wang</a>, <a href="https://wangzwhu.github.io/home/" target="_blank">Zheng Wang</a>
 
 - SimROD takes a packed RAW image as input and first learns a global gamma transformation through the Global Gamma Enhancement (GGE) module. The transformed data is then processed by Green-Guided Local Enhancement (GGLE) to enhance local details. SimROD outperformed the state-of-the-art method with just 1% of the parameters. Code and paper are available at <a href="https://ocean146.github.io/SimROD2025/">Project Page</a>.
 

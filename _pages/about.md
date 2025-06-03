@@ -69,5 +69,6 @@ If you are seeking any form of <strong>academic cooperation</strong> on crowd co
 - *2020.03 - 2021.06*, Minor in Economics, Wuhan University, Wuhan.
 
 # 💻 Internships
+- *2025.05 - Now*, Tencent, Shenzhen, China.
 - *2024.05 - 2024.08*, TeleAI, Beijing, China.
 - *2023.06 - 2023.09*, [intellindust](https://intellindust.cn/), Shenzhen, China, advised by [Xi Shen](https://xishen0220.github.io/).
